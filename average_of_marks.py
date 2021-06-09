@@ -46,7 +46,7 @@ def main():
             average_rounded = '{0:.4g}'.format(average_of_list)
 
             print("")
-            print("The average of all the numbers is: {0}"
+            print("The average of all the numbers is: {0}%"
                   .format(average_rounded))
 
             break
